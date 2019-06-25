@@ -39,7 +39,6 @@ export default {
       gender:'',
       startdate:new Date(1930,1,1),
       pickerDate:''
-      
     }
   },
    computed: {
