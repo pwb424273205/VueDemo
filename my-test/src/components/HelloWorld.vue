@@ -47,7 +47,6 @@ export default {
         return '请选择 >'
       }
       return this.pickerDate
-      
     }
   },
   components:{
