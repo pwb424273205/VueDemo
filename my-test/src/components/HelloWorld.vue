@@ -35,6 +35,9 @@ export default {
   data () {
     return {
       username:'',
+
+
+      
       phone:'',
       gender:'',
       startdate:new Date(1930,1,1),
